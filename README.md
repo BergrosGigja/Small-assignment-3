@@ -1,4 +1,4 @@
-# Sweet Tooth
+# Sweet Tooth :lollipop:
 ## Small Assignment 3 for T-514-VEFT
 
 Who wants candy? Sweet Tooth is a new candy company which is ready to take on the big guns.
